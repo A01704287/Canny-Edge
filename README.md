@@ -8,5 +8,7 @@
 El proyecto cuenta con tres codigos:
 
  El codigo ImageCannyEdgeDTCT.py aplica el filtro canny a la imagen dog.
+ 
  El codigo VideoCannyEdgeDTCT.py aplica el filtro canny a el video VideoMessi.
+ 
  El codigo LiveCannyEdgeDTCT.py aplica el filtro canny accediendo a la camara en vivo.
